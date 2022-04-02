@@ -1,6 +1,6 @@
 # Complex Pipelines
 
-This was created to gain a better understanding for processing large sets of data using Golang.
+This was created to gain a better understanding for processing large sets of data using Go.
 
 - The three processes:
     - Data Producer Process
